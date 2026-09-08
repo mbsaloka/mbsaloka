@@ -2,9 +2,22 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="./profile/stats.svg" height="170" alt="stats graph" />
   <img src="./profile/streak.svg" height="170" alt="streak graph" />
+</div> -->
+<div align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=mbsaloka&theme=tokyonight&hide=stars,issues,followers,streak,week,trend,avg,active_day,grade"
+    height="165"
+    alt="GitHub stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=mbsaloka&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5"
+    height="165"
+    alt="GitHub streak"
+  />
 </div>
 
 ###
