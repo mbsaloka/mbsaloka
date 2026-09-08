@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mbsaloka&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="./profile/stats.svg" height="170" alt="stats graph" />
+  <img src="./profile/streak.svg" height="170" alt="streak graph" />
 </div>
 
 ###
