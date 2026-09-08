@@ -8,13 +8,13 @@
 </div> -->
 <div align="center">
   <img
-    src="https://ghstats.dev/api/card?username=mbsaloka&theme=tokyonight&hide=stars,issues,followers,streak,week,trend,avg,active_day,grade"
-    height="150"
+    src="https://ghstats.dev/api/card?username=mbsaloka&theme=tokyonight&hide_border=true&hide=stars,issues,followers,streak,week,trend,avg,active_day,grade"
+    height="155"
     alt="GitHub stats"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=mbsaloka&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5"
-    height="150"
+    src="https://streak-stats.demolab.com/?user=mbsaloka&locale=en&mode=daily&theme=tokyonight&hide_border=true"
+    height="155"
     alt="GitHub streak"
   />
 </div>
