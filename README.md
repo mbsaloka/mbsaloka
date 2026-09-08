@@ -7,24 +7,16 @@
   <img src="./profile/streak.svg" height="170" alt="streak graph" />
 </div> -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://ghstats.dev/api/card?username=mbsaloka&theme=tokyonight&hide=stars,issues,followers,streak,week,trend,avg,active_day,grade"
-          height="165"
-          alt="GitHub stats"
-        />
-      </td>
-      <td>
-        <img
-          src="https://streak-stats.demolab.com/?user=mbsaloka&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5"
-          height="165"
-          alt="GitHub streak"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    src="https://ghstats.dev/api/card?username=mbsaloka&theme=tokyonight&hide=stars,issues,followers,streak,week,trend,avg,active_day,grade"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=mbsaloka&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5"
+    height="150"
+    alt="GitHub streak"
+  />
 </div>
 
 ###
