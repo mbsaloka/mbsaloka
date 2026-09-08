@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="520"
+     height="220"
+     viewBox="0 0 520 220"
+     role="img"
+     aria-label="GitHub Stats">
+
+  <rect
+    x="1"
+    y="1"
+    width="518"
+    height="218"
+    rx="14"
+    fill="#1a1b27"
+    stroke="#2f3441"
+    stroke-width="1.5"
+  />
+
+  <text
+    x="24"
+    y="36"
+    fill="#70a5fd"
+    font-size="20"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    GitHub Stats
+  </text>
+
+  
+  <text
+    x="28"
+    y="68"
+    fill="#9aa5ce"
+    font-size="12"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Public Repositories
+  </text>
+
+  <text
+    x="28"
+    y="92"
+    fill="#c0caf5"
+    font-size="24"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    54
+  </text>
+
+  <text
+    x="280"
+    y="68"
+    fill="#9aa5ce"
+    font-size="12"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Total Stars
+  </text>
+
+  <text
+    x="280"
+    y="92"
+    fill="#c0caf5"
+    font-size="24"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    2
+  </text>
+
+  <text
+    x="28"
+    y="118"
+    fill="#9aa5ce"
+    font-size="12"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Followers
+  </text>
+
+  <text
+    x="28"
+    y="142"
+    fill="#c0caf5"
+    font-size="24"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    15
+  </text>
+
+  <text
+    x="280"
+    y="118"
+    fill="#9aa5ce"
+    font-size="12"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Total Contributions
+  </text>
+
+  <text
+    x="280"
+    y="142"
+    fill="#c0caf5"
+    font-size="24"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    1,948
+  </text>
+
+  <text
+    x="28"
+    y="168"
+    fill="#9aa5ce"
+    font-size="12"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Commits
+  </text>
+
+  <text
+    x="28"
+    y="192"
+    fill="#c0caf5"
+    font-size="24"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    913
+  </text>
+
+  <text
+    x="280"
+    y="168"
+    fill="#9aa5ce"
+    font-size="12"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Pull Requests
+  </text>
+
+  <text
+    x="280"
+    y="192"
+    fill="#c0caf5"
+    font-size="24"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    92
+  </text>
+
+</svg>

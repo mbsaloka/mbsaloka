@@ -1,0 +1,422 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="520"
+     height="230"
+     viewBox="0 0 520 230"
+     role="img"
+     aria-label="Contribution Streak">
+
+  <rect
+    x="1"
+    y="1"
+    width="518"
+    height="228"
+    rx="14"
+    fill="#1a1b27"
+    stroke="#2f3441"
+    stroke-width="1.5"
+  />
+
+  <text
+    x="24"
+    y="36"
+    fill="#70a5fd"
+    font-size="20"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    Contribution Streak
+  </text>
+
+  
+  <text
+    x="28"
+    y="68"
+    fill="#9aa5ce"
+    font-size="12"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Current Streak
+  </text>
+
+  <text
+    x="28"
+    y="94"
+    fill="#c0caf5"
+    font-size="25"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    4 days
+  </text>
+
+
+  <text
+    x="280"
+    y="68"
+    fill="#9aa5ce"
+    font-size="12"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Longest Streak
+  </text>
+
+  <text
+    x="280"
+    y="94"
+    fill="#c0caf5"
+    font-size="25"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    21 days
+  </text>
+
+
+  <text
+    x="28"
+    y="126"
+    fill="#9aa5ce"
+    font-size="12"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Last Active
+  </text>
+
+  <text
+    x="28"
+    y="149"
+    fill="#c0caf5"
+    font-size="17"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    08 Sep 2026
+  </text>
+
+
+  <text
+    x="280"
+    y="126"
+    fill="#9aa5ce"
+    font-size="12"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Total Contributions
+  </text>
+
+  <text
+    x="280"
+    y="149"
+    fill="#c0caf5"
+    font-size="17"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    font-weight="700"
+  >
+    1,948
+  </text>
+
+
+  <text
+    x="28"
+    y="171"
+    fill="#9aa5ce"
+    font-size="11"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    Last 30 days
+  </text>
+
+  
+  <rect
+    x="28"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="42"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="56"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="70"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="84"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="98"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="112"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="126"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="140"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="154"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="168"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="182"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="196"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="210"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="224"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="238"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="252"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="266"
+    y="183"
+    width="10"
+    height="12"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="280"
+    y="178"
+    width="10"
+    height="17"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="294"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="308"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="322"
+    y="163"
+    width="10"
+    height="32"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="336"
+    y="185"
+    width="10"
+    height="10"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="350"
+    y="153"
+    width="10"
+    height="42"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="364"
+    y="153"
+    width="10"
+    height="42"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="378"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
+  />
+
+  <rect
+    x="392"
+    y="185"
+    width="10"
+    height="10"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="406"
+    y="180"
+    width="10"
+    height="15"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="420"
+    y="180"
+    width="10"
+    height="15"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="434"
+    y="175"
+    width="10"
+    height="20"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+
+  <text
+    x="28"
+    y="216"
+    fill="#9aa5ce"
+    font-size="10"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+  >
+    10 Aug 2026
+  </text>
+
+  <text
+    x="437"
+    y="216"
+    fill="#9aa5ce"
+    font-size="10"
+    font-family="Segoe UI, Ubuntu, Sans-Serif"
+    text-anchor="end"
+  >
+    08 Sep 2026
+  </text>
+
+</svg>
