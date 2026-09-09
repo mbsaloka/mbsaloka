@@ -112,7 +112,7 @@
     font-family="Segoe UI, Ubuntu, Sans-Serif"
     font-weight="700"
   >
-    1,951
+    1,959
   </text>
 
 
@@ -390,9 +390,9 @@
 
   <rect
     x="434"
-    y="189"
+    y="173"
     width="10"
-    height="6"
+    height="22"
     rx="3"
     fill="#bb9af7"
   />
