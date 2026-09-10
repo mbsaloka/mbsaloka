@@ -264,15 +264,6 @@
 
   <rect
     x="238"
-    y="191"
-    width="10"
-    height="4"
-    rx="3"
-    fill="#414868"
-  />
-
-  <rect
-    x="252"
     y="183"
     width="10"
     height="12"
@@ -281,12 +272,21 @@
   />
 
   <rect
-    x="266"
+    x="252"
     y="178"
     width="10"
     height="17"
     rx="3"
     fill="#bb9af7"
+  />
+
+  <rect
+    x="266"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
   />
 
   <rect
@@ -300,15 +300,6 @@
 
   <rect
     x="294"
-    y="191"
-    width="10"
-    height="4"
-    rx="3"
-    fill="#414868"
-  />
-
-  <rect
-    x="308"
     y="163"
     width="10"
     height="32"
@@ -317,10 +308,19 @@
   />
 
   <rect
-    x="322"
+    x="308"
     y="185"
     width="10"
     height="10"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="322"
+    y="153"
+    width="10"
+    height="42"
     rx="3"
     fill="#bb9af7"
   />
@@ -336,15 +336,6 @@
 
   <rect
     x="350"
-    y="153"
-    width="10"
-    height="42"
-    rx="3"
-    fill="#bb9af7"
-  />
-
-  <rect
-    x="364"
     y="191"
     width="10"
     height="4"
@@ -353,10 +344,19 @@
   />
 
   <rect
-    x="378"
+    x="364"
     y="185"
     width="10"
     height="10"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="378"
+    y="180"
+    width="10"
+    height="15"
     rx="3"
     fill="#bb9af7"
   />
@@ -372,15 +372,6 @@
 
   <rect
     x="406"
-    y="180"
-    width="10"
-    height="15"
-    rx="3"
-    fill="#bb9af7"
-  />
-
-  <rect
-    x="420"
     y="170"
     width="10"
     height="25"
@@ -389,12 +380,21 @@
   />
 
   <rect
-    x="434"
+    x="420"
     y="173"
     width="10"
     height="22"
     rx="3"
     fill="#bb9af7"
+  />
+
+  <rect
+    x="434"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
   />
 
 
@@ -405,7 +405,7 @@
     font-size="10"
     font-family="Segoe UI, Ubuntu, Sans-Serif"
   >
-    11 Aug 2026
+    12 Aug 2026
   </text>
 
   <text
@@ -416,7 +416,7 @@
     font-family="Segoe UI, Ubuntu, Sans-Serif"
     text-anchor="end"
   >
-    09 Sep 2026
+    10 Sep 2026
   </text>
 
 </svg>
