@@ -46,7 +46,7 @@
     font-family="Segoe UI, Ubuntu, Sans-Serif"
     font-weight="700"
   >
-    5 days
+    6 days
   </text>
 
 
@@ -90,7 +90,7 @@
     font-family="Segoe UI, Ubuntu, Sans-Serif"
     font-weight="700"
   >
-    09 Sep 2026
+    10 Sep 2026
   </text>
 
 
@@ -112,7 +112,7 @@
     font-family="Segoe UI, Ubuntu, Sans-Serif"
     font-weight="700"
   >
-    1,959
+    1,967
   </text>
 
 
@@ -390,11 +390,11 @@
 
   <rect
     x="434"
-    y="191"
+    y="175"
     width="10"
-    height="4"
+    height="20"
     rx="3"
-    fill="#414868"
+    fill="#bb9af7"
   />
 
 
