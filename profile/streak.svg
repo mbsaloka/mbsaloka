@@ -228,15 +228,6 @@
 
   <rect
     x="182"
-    y="191"
-    width="10"
-    height="4"
-    rx="3"
-    fill="#414868"
-  />
-
-  <rect
-    x="196"
     y="183"
     width="10"
     height="12"
@@ -245,12 +236,21 @@
   />
 
   <rect
-    x="210"
+    x="196"
     y="178"
     width="10"
     height="17"
     rx="3"
     fill="#bb9af7"
+  />
+
+  <rect
+    x="210"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
   />
 
   <rect
@@ -264,15 +264,6 @@
 
   <rect
     x="238"
-    y="191"
-    width="10"
-    height="4"
-    rx="3"
-    fill="#414868"
-  />
-
-  <rect
-    x="252"
     y="163"
     width="10"
     height="32"
@@ -281,10 +272,19 @@
   />
 
   <rect
-    x="266"
+    x="252"
     y="185"
     width="10"
     height="10"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="266"
+    y="153"
+    width="10"
+    height="42"
     rx="3"
     fill="#bb9af7"
   />
@@ -300,15 +300,6 @@
 
   <rect
     x="294"
-    y="153"
-    width="10"
-    height="42"
-    rx="3"
-    fill="#bb9af7"
-  />
-
-  <rect
-    x="308"
     y="191"
     width="10"
     height="4"
@@ -317,10 +308,19 @@
   />
 
   <rect
-    x="322"
+    x="308"
     y="185"
     width="10"
     height="10"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="322"
+    y="180"
+    width="10"
+    height="15"
     rx="3"
     fill="#bb9af7"
   />
@@ -336,15 +336,6 @@
 
   <rect
     x="350"
-    y="180"
-    width="10"
-    height="15"
-    rx="3"
-    fill="#bb9af7"
-  />
-
-  <rect
-    x="364"
     y="170"
     width="10"
     height="25"
@@ -353,7 +344,7 @@
   />
 
   <rect
-    x="378"
+    x="364"
     y="173"
     width="10"
     height="22"
@@ -362,12 +353,21 @@
   />
 
   <rect
-    x="392"
+    x="378"
     y="175"
     width="10"
     height="20"
     rx="3"
     fill="#bb9af7"
+  />
+
+  <rect
+    x="392"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
   />
 
   <rect
@@ -405,7 +405,7 @@
     font-size="10"
     font-family="Segoe UI, Ubuntu, Sans-Serif"
   >
-    15 Aug 2026
+    16 Aug 2026
   </text>
 
   <text
@@ -416,7 +416,7 @@
     font-family="Segoe UI, Ubuntu, Sans-Serif"
     text-anchor="end"
   >
-    13 Sep 2026
+    14 Sep 2026
   </text>
 
 </svg>
