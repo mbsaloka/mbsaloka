@@ -138,15 +138,6 @@
 
   <rect
     x="42"
-    y="191"
-    width="10"
-    height="4"
-    rx="3"
-    fill="#414868"
-  />
-
-  <rect
-    x="56"
     y="163"
     width="10"
     height="32"
@@ -155,10 +146,19 @@
   />
 
   <rect
-    x="70"
+    x="56"
     y="185"
     width="10"
     height="10"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="70"
+    y="153"
+    width="10"
+    height="42"
     rx="3"
     fill="#bb9af7"
   />
@@ -174,15 +174,6 @@
 
   <rect
     x="98"
-    y="153"
-    width="10"
-    height="42"
-    rx="3"
-    fill="#bb9af7"
-  />
-
-  <rect
-    x="112"
     y="191"
     width="10"
     height="4"
@@ -191,10 +182,19 @@
   />
 
   <rect
-    x="126"
+    x="112"
     y="185"
     width="10"
     height="10"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="126"
+    y="180"
+    width="10"
+    height="15"
     rx="3"
     fill="#bb9af7"
   />
@@ -210,15 +210,6 @@
 
   <rect
     x="154"
-    y="180"
-    width="10"
-    height="15"
-    rx="3"
-    fill="#bb9af7"
-  />
-
-  <rect
-    x="168"
     y="170"
     width="10"
     height="25"
@@ -227,7 +218,7 @@
   />
 
   <rect
-    x="182"
+    x="168"
     y="173"
     width="10"
     height="22"
@@ -236,12 +227,21 @@
   />
 
   <rect
-    x="196"
+    x="182"
     y="175"
     width="10"
     height="20"
     rx="3"
     fill="#bb9af7"
+  />
+
+  <rect
+    x="196"
+    y="191"
+    width="10"
+    height="4"
+    rx="3"
+    fill="#414868"
   />
 
   <rect
@@ -405,7 +405,7 @@
     font-size="10"
     font-family="Segoe UI, Ubuntu, Sans-Serif"
   >
-    29 Aug 2026
+    30 Aug 2026
   </text>
 
   <text
@@ -416,7 +416,7 @@
     font-family="Segoe UI, Ubuntu, Sans-Serif"
     text-anchor="end"
   >
-    27 Sep 2026
+    28 Sep 2026
   </text>
 
 </svg>
