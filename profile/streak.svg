@@ -138,20 +138,20 @@
 
   <rect
     x="42"
-    y="157"
+    y="158"
     width="10"
-    height="38"
+    height="37"
     rx="3"
     fill="#bb9af7"
   />
 
   <rect
     x="56"
-    y="161"
+    y="191"
     width="10"
-    height="34"
+    height="4"
     rx="3"
-    fill="#bb9af7"
+    fill="#414868"
   />
 
   <rect
@@ -327,20 +327,20 @@
 
   <rect
     x="336"
+    y="186"
+    width="10"
+    height="9"
+    rx="3"
+    fill="#bb9af7"
+  />
+
+  <rect
+    x="350"
     y="191"
     width="10"
     height="4"
     rx="3"
     fill="#414868"
-  />
-
-  <rect
-    x="350"
-    y="187"
-    width="10"
-    height="8"
-    rx="3"
-    fill="#bb9af7"
   />
 
   <rect
@@ -405,7 +405,7 @@
     font-size="10"
     font-family="Segoe UI, Ubuntu, Sans-Serif"
   >
-    08 Sep 2026
+    09 Sep 2026
   </text>
 
   <text
@@ -416,7 +416,7 @@
     font-family="Segoe UI, Ubuntu, Sans-Serif"
     text-anchor="end"
   >
-    07 Oct 2026
+    08 Oct 2026
   </text>
 
 </svg>
